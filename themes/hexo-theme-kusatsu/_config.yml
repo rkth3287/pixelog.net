@@ -1,3 +1,11 @@
+menu:
+    カテゴリー: /category/
+    タグ: /tag/
+    月別: /archive/
+    サイトについて: /about/
+    RSS: /atom.xml
+
+
 widgets:
   - category
   - tagcloud
