@@ -610,6 +610,27 @@
     
   </url>
   
+  <url>
+    <loc>https://pixelog.net/archive/</loc>
+    
+    <lastmod>2021-05-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://pixelog.net/category/</loc>
+    
+    <lastmod>2021-05-31</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://pixelog.net/tag/</loc>
+    
+    <lastmod>2021-05-31</lastmod>
+    
+  </url>
+  
 
   <url>
     <loc>https://pixelog.net/</loc>
