@@ -130,7 +130,7 @@ YouTubeは以下のように記述することで拡大できます。
 ## JavaScriptバージョン
 
 この記事はお遊びですが、JavaScriptで実用性のあるものも作りました。よろしければご覧ください。
-[クリックで画像を拡大するプラグイン(Lightbox)をjQueryなしで自作してみる](/post/whxdp7txqo/)
+[クリックで画像を拡大するプラグイン(Lightbox)をjQueryなしで自作してみる](/post/c73ni7/)
 
 <style>
 .lb {

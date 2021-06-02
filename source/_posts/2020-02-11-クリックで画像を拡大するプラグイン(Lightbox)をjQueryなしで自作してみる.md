@@ -482,7 +482,7 @@ pixelViewer('p > img');
 
 このプラグインをJavaScriptを使わずCSSのみで再現するというお遊び記事も書いてるので、実用性はありませんが、よろしければご覧ください。
 
-[CSSのみでクリックで画像を拡大する（Lightboxもどき）](/post/only-css-popup-image/)
+[CSSのみでクリックで画像を拡大する（Lightboxもどき）](/post/kqkyf5/)
 
 
 <style>
